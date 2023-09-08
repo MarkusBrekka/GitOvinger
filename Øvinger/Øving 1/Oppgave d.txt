@@ -1,0 +1,14 @@
+Oppgave d, Øving 1
+
+Dette er et program for å regne ut den kinetiske energien til et objekt.
+
+Programmet spør om massen til et objekt og lagrer dette som en variabel "masse", deretter gjøres verdien i variabelen "masse" om fra en string til en float og lagres som en ny variabel "masse_tall".
+Dette gjøres for å kunne regne med variabelen da en string ikke kan brukes til matematiske funksjoner, men en float kan.
+
+Dette repeteres for fart, men med de respektive variablene "fart" og "fart_tall".
+
+Etter at begge disse er utført regnes de i sammen på følgende måte: Ek = 1/2mv^2
+0,5 * float-verdien i "masse_tall" * float-verdien i "fart_tall" * float-verdien i "fart_tall".
+Verdien lagres i en variabel "resultat".
+
+Variabelen "resultat" printes til brukeren.

@@ -1,0 +1,12 @@
+Alfa-vinkel:
+tan(alfa) = a/b so alfa = arctan(a/b)
+
+Høyde = c * sin(a)
+Bredde = c * cos(a)
+
+Dia: 50
+Ratio: 16:9
+
+Alfa-vinkel = arctan(9/16) = 29.35775354
+Høyde = 50 * sin(arctan(9:16)) = 50 * sin(29.35775354) = 24,513061 = 
+Bredde = 50 * cos(arctan(9:16)) = 43.5787
