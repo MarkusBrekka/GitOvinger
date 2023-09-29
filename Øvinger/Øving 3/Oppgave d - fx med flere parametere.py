@@ -16,7 +16,8 @@ def euler_x(x=2,m=40):
         summen = summen + resultat
     return summen
 
-e_i_annen = math.e**2
+fx = euler_x()
 
-print(euler_x())
-print(e_i_annen)
+print(math.sqrt(fx))
+print(math.e)
+
